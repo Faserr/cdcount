@@ -1,0 +1,38 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+
+
+body{
+  font-size: 40pt;
+  height:100%;
+}
+
+
+
+.edit{
+
+  height:128px;
+
+  width:80%;
+
+  border-radius:16px;
+  text-align:center;
+  margin:auto;
+
+
+  value:"100Ԫ\n200Ԫ\n300Ԫ\n400Ԫ";
+}
+
+
+.btn_count{
+  height:40px;
+  width:40%;
+}
+
+.btn_clear{
+  height:40px;
+  width:40%;
+}
