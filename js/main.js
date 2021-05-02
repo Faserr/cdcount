@@ -23,7 +23,7 @@ function count_onClick(){
     }
   });
 
-  alert(sum);
+  alert("共计&#10;" + sum + " 元");
 
 }
 
